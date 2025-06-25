@@ -33,12 +33,12 @@
 
 ## 👨‍💻 Team Members
 
-| Name      | Role       |
-|-----------|------------|
-| KOUSHIKA  | Team Lead  |
-| Navya     | Member     |
-| Sammer    | Member     |
-| Kranthi   | Member     |
+|      Name        |    Role    |
+|----------------- |------------|
+| P Kranthi Kumar  | Team Lead  |
+| A Navya Sai      | Member     |
+| J Koushika Sai   | Member     |
+| Shaik Sammer     | Member     |
 
 ---
 
