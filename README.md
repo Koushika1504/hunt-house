@@ -21,6 +21,10 @@
   - Admin login
   - Remove house owners or renters if needed
 
+
+![download](https://github.com/user-attachments/assets/ac6db385-bc21-4f37-a587-ebd6998c8517)
+
+
 ---
 
 ## 🛠️ Tech Stack
