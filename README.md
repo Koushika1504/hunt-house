@@ -57,4 +57,7 @@ npm install
 npm run dev
 
 http://localhost:5173
+## Register Page ##
 
+
+![Screenshot 2025-06-25 160254](https://github.com/user-attachments/assets/078963c3-7203-4630-bf02-961e767512c7)
