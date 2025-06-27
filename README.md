@@ -22,9 +22,6 @@
   - Remove house owners or renters if needed
 
 
-![download](https://github.com/user-attachments/assets/ac6db385-bc21-4f37-a587-ebd6998c8517)
-
-
 ---
 
 ## 🛠️ Tech Stack
@@ -57,7 +54,5 @@ npm install
 npm run dev
 
 http://localhost:5173
-## Register Page ##
+![Screenshot 2025-06-25 135427](https://github.com/user-attachments/assets/65ab969a-b538-44ad-bf1b-2d1c3c34d35a)
 
-
-![Screenshot 2025-06-25 160254](https://github.com/user-attachments/assets/078963c3-7203-4630-bf02-961e767512c7)
